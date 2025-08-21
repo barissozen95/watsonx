@@ -73,7 +73,3 @@ APIKEY=your_ibmcloud_api_key
 ```bash
 pip install requests python-dotenv
 ```
-
-## License
-
-MIT
